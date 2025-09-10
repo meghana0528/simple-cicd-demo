@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<title>HTML</title>
+</head>
+<body>
+<h1>WELCOME TO ADITYA DEGREE COLLEGE</h1>
+<p>Aditya is a synonyms of Corperative Companies</p>
+</body>
+</html>
